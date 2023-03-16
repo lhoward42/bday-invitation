@@ -1,0 +1,10 @@
+{
+    
+    "forms": {
+      "signupForm": {
+        "name": "Birthday Invitation",
+        "actions": [{ "type": "email", "to": "webdevlaurice@gmail.com" }],
+        "fields": {"email": {"required": "true", "type": "email"}}
+      }
+    }
+  }
